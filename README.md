@@ -1,7 +1,4 @@
 
-
-### 📄 `README.md`
-
 ```markdown
 # Tiny-ImageNet Trainer 🧠📦
 

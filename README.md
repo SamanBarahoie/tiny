@@ -1,5 +1,5 @@
 
-```markdown
+
 # Tiny-ImageNet Trainer 🧠📦
 
 This project is a class-based PyTorch trainer for the **Tiny-ImageNet-200** dataset using a **heavyweight ResNet-152** model. It's suitable for training on image classification tasks or quickly **benchmarking your GPU** performance.
